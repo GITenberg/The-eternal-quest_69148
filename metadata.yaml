@@ -1,0 +1,25 @@
+_repo: The-eternal-quest_69148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert, Joseph
+    gutenberg_agent_id: '55129'
+    url: http://www.gutenberg.org/2009/agents/55129
+description: ''
+gutenberg_issued: '2022-10-13'
+identifiers:
+  gutenberg: '69148'
+language: en
+pgterms:marc905: 20220604082548gilbert
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Fictioneers, Inc.,1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The eternal quest
+url: http://www.gutenberg.org/ebooks/69148
